@@ -6,3 +6,9 @@ for i in range(5, 0, -1):
     time.sleep(1)
 
 print("Klar")
+
+# Räkna uppåt:
+# [1, 2, 3, 4, 5]
+for j in range(1, 6):
+    print(j)
+    time.sleep(1)
